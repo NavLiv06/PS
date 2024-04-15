@@ -1,0 +1,30 @@
+¿Qué propiedad de la IDFT garantiza que la salida en el dominio del tiempo sea una señal real cuando la entrada en el dominio de la frecuencia es real?
+a. Simetria
+b. Periodicidad
+c. Multiplicacion
+d. Parseval
+
+
+¿Cómo se relaciona la operación de multiplicación en el dominio del tiempo  con la convolución circular en el dominio de la frecuencia en una IDFT?
+a. La multiplicacion es igual a la convolucion circular.
+b. La multiplicacion no es proporcional a la convolucion circular.
+c. La multiplicacion es diferente a la convolucion circular.
+d. La multiplicacion no está relacionada con la convolucion circular.
+
+¿Qué es el Teorema de Parseval?
+a. Establece que la energía en el dominio del tiempo es igual a la energía en el dominio de la frecuencia.
+b. Es cuando el dominio de la frecuencia es real.
+c. Se da cuando la longitud de la secuencia en el dominio de la frecuencia está relacionada con la periodicidad.
+d. Cuando hay un desplazamiento en frecuencia.
+
+¿Cómo se relaciona la longitud de la secuencia en el dominio de la frecuencia con la periodicidad en IDFT?
+a. Si la longitud es de N, el periodo de la señal en dominio de tiempo será de N muestras.
+b. Si la longitud es de N, el periodo de la señal en dominio de tiempo no será de N muestras.
+c. Si la longitud es mayor a N, la señal no es periódica.
+d. No tienen relación.
+
+¿Qué ocurre en la IDFT si se realiza un desplazamiento en el dominio de la frecuencia?
+a. Un desplazamiento angular en el dominio de la frecuencia corresponde a un desplazamiento en el dominio del tiempo.
+b. Un desplazamiento angular en el dominio de la frecuencia no quiere decir que exista desplazamiento en el tiempo.
+c. No ocurre nada en el dominio del tiempo.
+d. Ocurre un cambio en el periodo.
